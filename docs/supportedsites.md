@@ -738,6 +738,7 @@
  - **RTBF**
  - **rte**: Raidió Teilifís Éireann TV
  - **rte:radio**: Raidió Teilifís Éireann radio
+ - **RTHK**
  - **rtl.nl**: rtl.nl and rtlxl.nl
  - **rtl2**
  - **rtl2:you**

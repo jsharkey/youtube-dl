@@ -943,6 +943,10 @@ from .roxwel import RoxwelIE
 from .rozhlas import RozhlasIE
 from .rtbf import RTBFIE
 from .rte import RteIE, RteRadioIE
+from .rthk import (
+    RTHKIE,
+    RTHKPlaylistIE,
+)
 from .rtlnl import RtlNlIE
 from .rtl2 import (
     RTL2IE,
